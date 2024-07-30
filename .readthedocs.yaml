@@ -5,9 +5,6 @@ build:
   tools:
     python: "3.12"
 
-sphinx:
-  configuration: docs/conf.py  # Cette ligne est inutile pour MkDocs, vous pouvez la supprimer ou ignorer l'erreur
-
 # python:
 #   install:
 #     - requirements: docs/requirements.txt
