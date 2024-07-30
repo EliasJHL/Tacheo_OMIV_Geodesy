@@ -1,0 +1,21 @@
+site_name: Documentation Tachéo
+
+nav:
+  - Accueil: index.md
+  - Documentation :
+    - Installation: installation.md
+    - Module de calcul: calcul.md
+    - Module de visualisation: visualisation.md
+  - Fonctions :
+    - Fonction 1: 'fg.md'
+    - Fonction 2: 'df.md'
+    - Fonction 3: 'sd.md'
+  - Informations :
+    - Déploiement: 'home.md'
+    - A propos: 'about.md'
+  
+theme:
+  name: readthedocs
+  locale: fr
+
+repo_url: https://github.com/example/repository/
