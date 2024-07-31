@@ -35,3 +35,19 @@ Pour lancer l'application en local, vous pouvez utiliser la commande *golem* :
 ```R
 golem::run_dev()
 ```
+
+## Installation de la bonne version R & Shiny
+
+La version de **R** utilisé ici est la version `R Package Version` et la version de Shiny est la `Shiny Package Version`
+
+Pour installer la dernière version de R
+
+```bash
+$ deb http://cloud.r-project.org/bin/linux/debian buster-cran40/
+```
+
+Pour installer la dernière version de Shiny, on compile depuis les sources :
+
+```bash
+https://github.com/rstudio/shiny-server/wiki/Building-Shiny-Server-from-Source
+```

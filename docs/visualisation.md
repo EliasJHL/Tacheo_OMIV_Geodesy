@@ -6,22 +6,6 @@ Le module shiny utilisé est `shinydashboard` qui permet d'avoir l'UI d'un dashb
 
 L'application actuelle se trouve dans le dossier tacheo/ qui est accessible dans le lien de test développeur `http://omiv-geodesy.u-strasbg.fr/dev/tacheo/`
 
-### Installation
-
-La version de **R** utilisé ici est la version `R Package Version` et la version de Shiny est la `Shiny Package Version`
-
-Pour installer la dernière version de R
-
-```bash
-$ deb http://cloud.r-project.org/bin/linux/debian buster-cran40/
-```
-
-Pour installer la dernière version de Shiny, on compile depuis les sources :
-
-```bash
-https://github.com/rstudio/shiny-server/wiki/Building-Shiny-Server-from-Source
-```
-
 ### Utilisation
 
 On lance, redémarre ou stoppe le serveur Shiny via la commande

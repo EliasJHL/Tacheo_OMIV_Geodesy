@@ -7,11 +7,22 @@ nav:
     - Module de calcul: calcul.md
     - Module de visualisation: visualisation.md
   - Fonctions :
-    - Fonction 1: 'fg.md'
-    - Fonction 2: 'df.md'
-    - Fonction 3: 'sd.md'
+    - Heatmap:
+      - Fonction 1: 'fg.md'
+      - Fonction 2: 'df.md'
+      - Fonction 3: 'sd.md'
+    - Graphiques ggplot :
+      - ggplot_cumul(. . .): 'ggplot_cumul.md'
+      - ggplot_serie_option_2d(. . .): 'ggplot_2d.md'
+      - Fonction 3: 'sd.md'
+    - Carte:
+      - map_ui(. . .): 'map_ui.md'
+    - Graphiques plotly:
+      - Fonction 1: 'fg.md'
+      - Fonction 2: 'df.md'
+      - Fonction 3: 'sd.md'
   - Informations :
-    - Déploiement: 'home.md'
+    - Déploiement & Configuration: 'deploy.md'
     - A propos: 'about.md'
   
 theme:

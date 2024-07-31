@@ -30,4 +30,4 @@ Le module de visualisation récupère ces données pour afficher des cartes et d
         `-- # Golem files
 
 
-Pour ce qui concerne l’application, le contact est **Xavier WANNER** `x.wanner@quadrilaterre.fr` qui en est l’auteur
+Pour ce qui concerne l’application, le contact est **Xavier WANNER** `x.wanner@quadrilaterre.fr` qui en est l’auteur.
