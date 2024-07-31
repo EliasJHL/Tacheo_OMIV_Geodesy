@@ -14,7 +14,7 @@ nav:
     - Graphiques ggplot :
       - ggplot_cumul(. . .): 'ggplot_cumul.md'
       - ggplot_serie_option_2d(. . .): 'ggplot_2d.md'
-      - Fonction 3: 'sd.md'
+      - ggplot_serie_option(. . .): 'ggplot.md'
     - Carte:
       - map_ui(. . .): 'map_ui.md'
     - Graphiques plotly:
